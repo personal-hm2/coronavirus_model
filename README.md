@@ -9,7 +9,7 @@ See [Website](https://www.covid19analytics.org/project-details/social-distancing
 
 ## Latest Mobility Changes in Tokyo
 
-These graphs are update daily.
+These graphs are updated daily.
 
 ### By gender
 
